@@ -1,0 +1,13 @@
+p{
+    color: reb;
+    font-size: 30px;
+    color: aquamarine;
+}
+body{
+    background-color: black;
+    margin:200px auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
